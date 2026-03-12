@@ -8,3 +8,4 @@ Constants are values that never change while the program is running. We use the 
 
 ## Problem Description
 Create a program that defines constants for the days of the week using `iota`. Print the values of these constants. Also, define a constant for the speed of light.
+-
