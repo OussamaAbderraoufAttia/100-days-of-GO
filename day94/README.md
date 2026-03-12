@@ -8,3 +8,4 @@ When you stop a server (like pressing Ctrl+C), you shouldn't just cut the power 
 
 ## Problem Description
 Modify your HTTP server to listen for "interrupt signals" (like Ctrl+C). Use `srv.Shutdown()` with a context to wait for active requests to finish before exiting.
+-
