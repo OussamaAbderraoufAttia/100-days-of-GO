@@ -8,3 +8,4 @@ Slices are the most powerful way to handle lists of data in Go. Unlike arrays, s
 
 ## Problem Description
 Create a slice of strings containing 3 fruit names. Use the `append` function to add 2 more fruits to the slice. Print the resulting slice.
+-
