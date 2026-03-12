@@ -8,3 +8,4 @@ In a big app, you have dozens of settings (database URLs, API keys, etc.). The `
 
 ## Problem Description
 Research the `github.com/ilyakaznacheev/cleanenv` package. Create a configuration struct and load values from environment variables.
+-
