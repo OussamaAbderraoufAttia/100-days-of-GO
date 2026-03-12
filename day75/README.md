@@ -8,3 +8,4 @@ Creating and destroying objects many times can be hard on your computer's memory
 
 ## Problem Description
 Use `sync.Pool` to reuse a slice of bytes across multiple operations.
+-
