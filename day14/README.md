@@ -8,3 +8,4 @@ Sometimes we want to read an entire sentence, but `fmt.Scan` stops at the first 
 
 ## Problem Description
 `fmt.Scan` stops at spaces. Use the `bufio` package and `os.Stdin` to read a full line of text (including spaces) from the user.
+-
