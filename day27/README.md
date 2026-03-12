@@ -8,3 +8,4 @@ A `struct` (short for structure) lets you bundle different types of data togethe
 
 ## Problem Description
 Define a `Person` struct with `Name` (string), `Age` (int), and `Email` (string). Create an instance of this struct and print its fields.
+-
