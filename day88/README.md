@@ -8,3 +8,4 @@ Manage database records.
 
 ## Problem Description
 Using the database connection from Exercise 87, create a table named `users`. Write functions to insert a new user and retrieve all users from the table.
+-
