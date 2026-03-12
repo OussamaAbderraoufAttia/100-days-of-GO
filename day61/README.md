@@ -8,3 +8,4 @@ A **Goroutine** is a lightweight thread managed by the Go runtime. When you put 
 
 ## Problem Description
 Create a function that prints numbers 1 to 5 with a small delay. Call it as a goroutine and observe that the program might exit before the goroutine finishes unless you add a temporary delay in `main`.
+-
