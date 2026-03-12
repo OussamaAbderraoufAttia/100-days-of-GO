@@ -8,3 +8,4 @@ If Goroutines are workers, **Channels** are the pipes they use to talk to each o
 
 ## Problem Description
 Create a channel of type `string`. Start a goroutine that sends "Hello from Channel" into it. In the main function, receive and print the message.
+-
