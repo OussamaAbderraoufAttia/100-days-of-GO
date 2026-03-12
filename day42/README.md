@@ -8,3 +8,4 @@ The **Empty Interface** (`interface{}` or simply `any` in newer Go versions) is 
 
 ## Problem Description
 Create a function that takes an `interface{}` (or `any` in Go 1.18+) as a parameter and prints its value and type using `%v` and `%T`.
+-
