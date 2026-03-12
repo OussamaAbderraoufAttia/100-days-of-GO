@@ -10,3 +10,4 @@ Both use channels to send you a message when it's time to act. Don't forget to `
 
 ## Problem Description
 Create a ticker that prints "Tick" every 500ms and a timer that stops the program after 2 seconds.
+-
