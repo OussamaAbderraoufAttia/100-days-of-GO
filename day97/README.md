@@ -8,3 +8,4 @@ When building a real app, don't just put everything in one file. Follow the "Sta
 
 ## Problem Description
 Set up a project folder with `cmd`, `internal/handlers`, and `internal/models`. Define a model for a "Book" (ID, Title, Author) in the models folder.
+-
