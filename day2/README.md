@@ -8,3 +8,4 @@ Go has specific types for different data. `int` is for whole numbers, `float64` 
 
 ## Problem Description
 Write a program that declares variables of following types: `int`, `float64`, `string`, and `bool`. Assign them values and print them to the console along with their type using `%T` verb in `fmt.Printf`.
+-
