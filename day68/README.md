@@ -8,3 +8,4 @@ For simple cases like counting numbers, using a Mutex can be a bit slow. Go prov
 
 ## Problem Description
 Use the `sync/atomic` package to create a concurrent counter without using Mutexes.
+-
