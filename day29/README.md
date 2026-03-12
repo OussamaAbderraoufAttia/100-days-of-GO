@@ -8,3 +8,4 @@ Methods are like functions, but they are "attached" to a specific type (like a s
 
 ## Problem Description
 Add a method `IsAdult()` to the `Person` struct from Exercise 27 that returns `true` if the person is 18 or older.
+-
