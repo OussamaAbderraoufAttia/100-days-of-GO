@@ -8,3 +8,4 @@ Just like reading, writing small files is very easy with `os.WriteFile`. You giv
 
 ## Problem Description
 Write a program that takes user input and saves it to a file named `output.txt` using `os.WriteFile`.
+-
