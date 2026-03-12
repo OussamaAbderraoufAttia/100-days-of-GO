@@ -8,3 +8,4 @@ In many languages, objects "inherit" from each other. In Go, we use "Composition
 
 ## Problem Description
 Define a `ContactInfo` struct. Then, embed `ContactInfo` inside a `User` struct. Create a `User` and access the embedded fields directly.
+-
