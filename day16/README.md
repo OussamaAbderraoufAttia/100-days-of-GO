@@ -8,3 +8,4 @@ Go's `strings` package is like a toolbox for text. You can use it to change text
 
 ## Problem Description
 Write a program that takes a string and prints its length, converts it to uppercase, and checks if it contains a specific substring. Use the `strings` package.
+-
