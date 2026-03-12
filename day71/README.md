@@ -8,3 +8,4 @@ A **Worker Pool** is like a team of workers waiting for tasks. You create a fixe
 
 ## Problem Description
 Implement a worker pool with 3 workers. Send 10 jobs (represented by integers) into a channel and have the workers process them concurrently.
+-
