@@ -8,3 +8,4 @@ Understand variable scope.
 
 ## Problem Description
 Write a program with a package-level variable and a function-level variable with the same name. Observe which one is accessed inside the function.
+-
