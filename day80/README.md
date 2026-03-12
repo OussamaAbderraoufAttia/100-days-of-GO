@@ -8,3 +8,4 @@ In this project, we put everything together to build something useful: a tool th
 
 ## Problem Description
 Write a program that takes a slice of 5-10 URLs. For each URL, start a goroutine that performs an `http.Get`. Use a channel to send back a message stating whether the site is up (status code 200) or down.
+-
