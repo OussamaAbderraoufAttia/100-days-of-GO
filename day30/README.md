@@ -8,3 +8,4 @@ By default, if you pass a struct to a method, Go makes a **copy** of it. If you 
 
 ## Problem Description
 Add a method `HaveBirthday()` to the `Person` struct that increments their age by 1. Use a pointer receiver so the change persists.
+-
