@@ -8,3 +8,4 @@ Never save a user's real password in a database! If a hacker steals your data, t
 
 ## Problem Description
 Use the `golang.org/x/crypto/bcrypt` package. Write a program that hashes a password and then verifies if a user-provided string matches that hash.
+-
