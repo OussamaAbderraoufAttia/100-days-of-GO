@@ -8,3 +8,4 @@ This project combines your knowledge of the file system and command-line tools. 
 
 ## Problem Description
 Build a CLI tool that takes a file path as an argument and prints its size, last modified time, and permissions. Use `os.Stat`.
+-
