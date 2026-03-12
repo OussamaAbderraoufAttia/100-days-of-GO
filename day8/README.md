@@ -8,3 +8,4 @@ While Go doesn't have a `while` keyword, you can create a "while loop" by giving
 
 ## Problem Description
 In Go, there is no `while` keyword. Use a `for` loop with only a condition to print powers of 2 less than 100.
+-
