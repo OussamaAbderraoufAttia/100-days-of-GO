@@ -8,3 +8,4 @@ To add new data to our API, we use the **POST** method. The user sends a JSON ob
 
 ## Problem Description
 Create a handler that accepts a `POST` request to `/movies`. Parse the incoming JSON to add a new movie to your in-memory slice.
+-
