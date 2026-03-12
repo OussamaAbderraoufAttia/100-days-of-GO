@@ -11,3 +11,4 @@ Go only has one kind of loop: the `for` loop. The standard version has three par
 
 ## Problem Description
 Write a program that prints numbers from 1 to 10 using a `for` loop.
+-
