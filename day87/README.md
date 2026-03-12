@@ -8,3 +8,4 @@ Variables in Go disappear when you stop the program. To save data forever, we us
 
 ## Problem Description
 Research how to use the `database/sql` package with an SQLite driver (e.g., `modernc.org/sqlite`). Write a program that opens a connection to a local database file named `test.db`.
+-
