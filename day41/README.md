@@ -8,3 +8,4 @@ An **Interface** in Go is a contract or a list of specific behaviors (methods). 
 
 ## Problem Description
 Define a `Shape` interface with an `Area() float64` method. Create `Circle` and `Rectangle` structs that implement this interface.
+-
