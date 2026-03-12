@@ -8,3 +8,4 @@ Go's `time` package is used for everything related to dates and times. A funny t
 
 ## Problem Description
 Write a program that prints the current date and time in a custom format (e.g., "YYYY-MM-DD HH:MM:SS").
+-
