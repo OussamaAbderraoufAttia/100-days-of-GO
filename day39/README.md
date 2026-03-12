@@ -8,3 +8,4 @@ JSON is the standard language of the web. Go can easily convert structs into JSO
 
 ## Problem Description
 Define a `Product` struct with fields for Name, Price, and Stock. Use struct tags to make the JSON keys lowercase. Marshal a `Product` instance into a JSON string and print it.
+-
