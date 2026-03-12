@@ -8,3 +8,4 @@ We use `if` to check if something is true. For example, to check if a number is 
 
 ## Problem Description
 Write a program that checks if a given number is even or odd. If it's even, print "Even"; otherwise, print "Odd".
+-
