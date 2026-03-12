@@ -16,3 +16,4 @@ Build a complete URL shortener.
 - `POST /shorten`: Takes a long URL, generates a random short code, and saves it.
 - `GET /[short_code]`: Redirects the browser to the original URL.
 - Use an SQLite database to store the mappings.
+-
