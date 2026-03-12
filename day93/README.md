@@ -8,3 +8,4 @@ A **Makefile** is a simple list of shortcuts for terminal commands. Instead of t
 
 ## Problem Description
 Create a `Makefile` with targets for `build` (compiles the app), `run` (compiles and starts), and `clean` (deletes the binary).
+-
