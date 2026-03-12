@@ -8,3 +8,4 @@ Normal channels are "unbuffered," meaning the sender has to wait for a receiver 
 
 ## Problem Description
 Create a buffered channel with a capacity of 2. Send two values into it without a receiver, then receive and print them.
+-
