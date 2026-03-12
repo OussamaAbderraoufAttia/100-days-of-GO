@@ -8,3 +8,4 @@ WaitGroups are great for waiting, but they don't help if one of the workers hits
 
 ## Problem Description
 Research the `golang.org/x/sync/errgroup` package. Write a conceptual program that uses it to run three tasks and catches the first error that occurs.
+-
