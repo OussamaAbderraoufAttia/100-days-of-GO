@@ -8,3 +8,4 @@ Instead of using a traditional `for` loop with an index like `i++`, Go provides 
 
 ## Problem Description
 Create a slice of integers. Use `for range` to iterate over the slice and print both the index and the value of each element.
+-
