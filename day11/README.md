@@ -8,3 +8,4 @@ One of Go's coolest features is that functions can return multiple values at onc
 
 ## Problem Description
 Write a function `divide` that takes two integers. It should return the quotient and the remainder.
+-
