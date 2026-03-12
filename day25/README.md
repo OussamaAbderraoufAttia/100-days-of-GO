@@ -8,3 +8,4 @@ A `map` is like a dictionary. You have a **key** (like a person's name) and a **
 
 ## Problem Description
 Create a map where keys are string names and values are integer ages. Add 3 people to the map and print the age of one specific person.
+-
