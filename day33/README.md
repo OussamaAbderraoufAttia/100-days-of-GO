@@ -8,3 +8,4 @@ Sometimes, a simple text message isn't enough to explain an error. We can create
 
 ## Problem Description
 Create a custom error type `DivisionError` (a struct) that includes the numerator and denominator. Implement the `Error()` method.
+-
