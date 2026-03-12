@@ -8,3 +8,4 @@ A palindrome is a word that reads the same forwards and backwards (like "radar")
 
 ## Problem Description
 Write a function that checks if a given string is a palindrome (reads the same forwards and backwards).
+-
