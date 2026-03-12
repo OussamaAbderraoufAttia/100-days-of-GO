@@ -8,3 +8,4 @@ Receiving data from the web often means getting a JSON string. We use `json.Unma
 
 ## Problem Description
 Take a JSON string representing a User and unmarshal it into a `User` struct.
+-
