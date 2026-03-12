@@ -8,3 +8,4 @@ Just like you can put one struct inside another, you can put one interface insid
 
 ## Problem Description
 Define interfaces `Reader` and `Writer`. Then define a `ReadWriter` interface that embeds both. Implement a struct that satisfies `ReadWriter`.
+-
