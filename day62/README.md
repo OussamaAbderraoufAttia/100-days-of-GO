@@ -11,3 +11,4 @@ Using `time.Sleep` to wait for goroutines is not reliable because we don't know 
 
 ## Problem Description
 Use `sync.WaitGroup` to wait for three separate goroutines to complete their work.
+-
