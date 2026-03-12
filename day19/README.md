@@ -8,3 +8,4 @@ This project brings together input handling, conditions, and basic logic. We ask
 
 ## Problem Description
 Build a command-line calculator that asks for two numbers and an operator (+, -, *, /). Use a `switch` statement to perform the operation and print the result.
+-
