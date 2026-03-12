@@ -8,3 +8,4 @@ Standard Go logs are fine for small projects, but for big apps, you want **Struc
 
 ## Problem Description
 Research the `github.com/rs/zerolog` package. Write a program that logs a message with extra fields (like "user_id") in JSON format.
+-
