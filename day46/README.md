@@ -8,3 +8,4 @@ For small files, Go provides a simple way to read the whole thing at once using 
 
 ## Problem Description
 Write a program that reads the entire content of a text file using `os.ReadFile` and prints it to the console.
+-
