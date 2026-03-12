@@ -8,3 +8,4 @@ Handle catastrophic failures.
 
 ## Problem Description
 Write a program that intentionally triggers a panic (e.g., division by zero or index out of bounds). Use `defer` and `recover` to catch the panic and prevent the program from crashing.
+-
