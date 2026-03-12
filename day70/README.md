@@ -8,3 +8,4 @@ Sometimes you want to stop a task yourself, not just wait for a timer. `context.
 
 ## Problem Description
 Start three worker goroutines that listen to a `Done()` signal from a context. In the main function, call the `cancel()` function after 1 second and verify all workers stopped.
+-
