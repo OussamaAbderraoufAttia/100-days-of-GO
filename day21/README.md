@@ -8,3 +8,4 @@ An array is a collection of items of the same type. In Go, the size of an array 
 
 ## Problem Description
 Declare an array of 5 integers and initialize it with values. Write a loop to calculate the sum of all elements in the array.
+-
