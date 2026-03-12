@@ -8,3 +8,4 @@ A `switch` statement is a cleaner way to write many `if-else` blocks. It checks 
 
 ## Problem Description
 Create a program that takes a number (1-7) representing a day of the week and prints the name of the day. Use a `switch` statement instead of multiple `if` statements.
+-
