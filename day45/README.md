@@ -8,3 +8,4 @@ In Go, `io.Reader` and `io.Writer` are two of the most important interfaces. A *
 
 ## Problem Description
 Use `strings.NewReader` to create a reader from a string. Use `io.Copy` to copy the content of the reader to `os.Stdout`.
+-
