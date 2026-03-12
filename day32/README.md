@@ -8,3 +8,4 @@ In Go, errors are just values that functions return. We don't use "try-catch" bl
 
 ## Problem Description
 Write a function `Sqrt(f float64) (float64, error)` that returns the square root of a number. If the number is negative, return an error using `errors.New`.
+-
