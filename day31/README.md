@@ -8,3 +8,4 @@ A variable is a name for a value stored somewhere in your computer's memory. A *
 
 ## Problem Description
 Declare an integer and a pointer to that integer. Print the value of the integer, its memory address, and the value the pointer points to (dereferencing).
+-
