@@ -8,3 +8,4 @@ When a goroutine has finished sending all its data, it can `close()` the channel
 
 ## Problem Description
 Start a goroutine that sends numbers 1 to 5 into a channel and then closes it. Use a `for range` loop in the main function to print all values.
+-
