@@ -8,3 +8,4 @@ Benchmarking tells you how *fast* your code is. In Go, you write functions start
 
 ## Problem Description
 Write a benchmark function `BenchmarkSum` for your `Sum` function.
+-
