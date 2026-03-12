@@ -8,3 +8,4 @@ To remove an item from a map, Go provides the built-in `delete()` function. You 
 
 ## Problem Description
 Start with the map from Exercise 25. Delete one person from the map using the `delete` function and print the whole map to verify.
+-
