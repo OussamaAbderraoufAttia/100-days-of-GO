@@ -8,3 +8,4 @@ To get information from the user, we use `fmt.Scan`. We need to use an ampersand
 
 ## Problem Description
 Write a program that asks the user for their name and age using `fmt.Scan`. Print a greeting that includes these details.
+-
