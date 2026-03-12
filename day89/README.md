@@ -8,3 +8,4 @@ Writing manually SQL can be tedious and error-prone. An **ORM** (Object-Relation
 
 ## Problem Description
 Add the `gorm.io/gorm` package to your project. Define a struct and use GORM to automatically create the table ("AutoMigrate") and insert a record.
+-
