@@ -8,3 +8,4 @@ When multiple goroutines try to change the same variable at the exact same time,
 
 ## Problem Description
 Create a counter variable shared by 1000 goroutines. Use `sync.Mutex` to ensure the final count is exactly 1000.
+-
