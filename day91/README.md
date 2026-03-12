@@ -8,3 +8,4 @@ Secure your API with tokens.
 
 ## Problem Description
 Research the `golang-jwt/jwt` package. Write a program that creates a digital "token" with a username inside it, signs it with a secret key, and then prints the token.
+-
