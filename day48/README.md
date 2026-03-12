@@ -8,3 +8,4 @@ When files are very large, reading them all at once (like `ReadFile`) might use 
 
 ## Problem Description
 Use `bufio.Scanner` to read a file line by line. Count the number of lines in the file.
+-
