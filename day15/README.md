@@ -8,3 +8,4 @@ Go is very strict about types. You cannot add an `int` to a `float64` directly. 
 
 ## Problem Description
 Write a program that takes a `float64` value and converts it to an `int`. Also, convert an `int` to a `float64`. Note how the values change (truncation).
+-
