@@ -8,3 +8,4 @@ When you have a variable of type `any`, Go doesn't know what's inside it until y
 
 ## Problem Description
 Create an interface variable holding a string. Use a type assertion to extract the string value. Handle the case where the assertion might fail using the "comma ok" idiom.
+-
