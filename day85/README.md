@@ -8,3 +8,4 @@ A **REST API** is a way for computers to share data with each other. Instead of 
 
 ## Problem Description
 Define a `Movie` struct with a few fields. Create a slice of movies. Write a handler `/movies` that returns this slice as JSON data.
+-
