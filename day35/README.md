@@ -8,3 +8,4 @@ The `defer` keyword tells Go to wait and run a function right before the *curren
 
 ## Problem Description
 Write a program that prints "Starting", "Middle", and "Ending". Use `defer` to ensure "Ending" is printed last, even if "Middle" is called before it.
+-
