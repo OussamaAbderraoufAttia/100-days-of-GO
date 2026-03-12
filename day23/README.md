@@ -8,3 +8,4 @@ Every slice has a **Length** (how many items it currently has) and a **Capacity*
 
 ## Problem Description
 Create a slice using `make` with a length of 0 and a capacity of 5. In a loop, append 10 integers to it. In each iteration, print the element, the current length, and the current capacity.
+-
