@@ -8,3 +8,4 @@ Functions help us organize code. We define them with `func`, give them a name, a
 
 ## Problem Description
 Write a function `multiply` that takes two integers as parameters and returns their product. Call this function from `main` and print the result.
+-
