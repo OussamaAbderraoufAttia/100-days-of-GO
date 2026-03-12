@@ -8,3 +8,4 @@ Process requests before they reach your main logic.
 
 ## Problem Description
 Create a logging middleware that prints the requested URL path to the console for every single request before calling the actual handler.
+-
