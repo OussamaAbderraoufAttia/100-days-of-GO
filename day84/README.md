@@ -8,3 +8,4 @@ Most websites aren't just text; they have images and stylesheets. Go's `http.Fil
 
 ## Problem Description
 Create a folder named `public` with an `index.html` file. Use `http.FileServer` to serve the contents of that folder on the root path `/`.
+-
