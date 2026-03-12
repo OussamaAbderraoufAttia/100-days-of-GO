@@ -8,3 +8,4 @@ Ensure a function runs only once.
 
 ## Problem Description
 Create 10 goroutines that all attempt to call an `initialize()` function. Use `sync.Once` to ensure the message "Initializing..." is only printed once.
+-
