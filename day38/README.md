@@ -8,3 +8,4 @@ Go has a special function called `init()`. It runs automatically before the `mai
 
 ## Problem Description
 Write a program with an `init()` function that sets up some configuration (e.g., setting a global variable) before `main()` runs.
+-
