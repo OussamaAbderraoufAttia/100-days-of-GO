@@ -8,3 +8,4 @@ The web runs on URLs. Go's `net/url` package helps you take a URL string and bre
 
 ## Problem Description
 Take a URL string (e.g., "https://example.com/search?q=golang") and parse it using the `net/url` package. Print the scheme, host, path, and query parameters.
+-
